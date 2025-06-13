@@ -1,0 +1,2 @@
+C:\Users\ALU ARVR\Documents\CustomPlaneTracking\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\ALU ARVR\Documents\CustomPlaneTracking\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
