@@ -28,6 +28,4 @@ How It Works:
 - If a plane is detected at the touch location, the cube prefab is instantiated at that position.
 - Multiple cubes can be placed by tapping multiple times.
 
-Note:
-- Make sure your prefab is not left in the scene hierarchy. It should only be in the Project panel and assigned to the script.
-- Plane detection and object placement only work on actual devices, not in the Unity Editor.
+
